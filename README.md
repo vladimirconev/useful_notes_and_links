@@ -26,6 +26,7 @@
 # Databases
 - Relational DBs 
   - https://architecturenotes.co/things-you-should-know-about-databases/
+  - https://aws.amazon.com/what-is/database-sharding/
   - https://www.heidisql.com/ 
   - https://dbeaver.io/ 
 
@@ -39,13 +40,13 @@
     - https://microservices.io/patterns/microservices.html
     - https://code-held.com/2022/07/28/microservices/
 
-# Tools
-- https://cmder.app/
-- https://carbon.now.sh/ 
-- https://jsoncrack.com/editor 
-- https://ditto-cp.sourceforge.io/
-- https://www.screentogif.com/
-- https://excalidraw.com/
+# Tools and Utility 
+- https://cmder.app/ (console Emulator)
+- https://carbon.now.sh/ (sharing code snippets)
+- https://jsoncrack.com/editor (JSON visualization)
+- https://ditto-cp.sourceforge.io/ (clipboard manager)
+- https://www.screentogif.com/ (Record screen to .gif)
+- https://excalidraw.com/ 
 
 # Blogs,Newsletters and YouTube videos  
 - https://nurkiewicz.com/ 
