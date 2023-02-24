@@ -1,4 +1,4 @@
-# Placeholder for useful notes and Links
+# Useful Links and Notes
 
 # Programming 
 - Guidelines and best practices
