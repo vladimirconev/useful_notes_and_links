@@ -41,11 +41,12 @@
 - https://www.screentogif.com/
 - https://excalidraw.com/
 
-# Blogs,Podcasts and YouTube videos  
+# Blogs,Newsletters and YouTube videos  
 - https://nurkiewicz.com/ 
 - https://reflectoring.io/ 
 - https://victorrentea.ro/blog/
 - https://www.morling.dev/
 - https://blog.sebastian-daschner.com/
 - https://blog.tangly.net/blog/ 
+- https://www.infoq.com/software-architects-newsletter/
 
