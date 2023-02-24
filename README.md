@@ -18,6 +18,7 @@
 - https://jsoncrack.com/editor 
 - https://ditto-cp.sourceforge.io/
 - https://www.screentogif.com/
+- https://excalidraw.com/
 
 # Blogs and Podcasts 
 - https://nurkiewicz.com/ 
