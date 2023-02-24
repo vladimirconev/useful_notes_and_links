@@ -42,6 +42,7 @@
     - https://code-held.com/2022/07/28/microservices/
 
 - https://learn.microsoft.com/en-us/azure/architecture/guide/
+- https://github.com/TNG/ArchUnit-Examples (Testing out your Software Architecture) 
 
 # Tools and Utility 
 - https://cmder.app/ (console Emulator)
