@@ -39,10 +39,11 @@
 - https://www.screentogif.com/
 - https://excalidraw.com/
 
-# Blogs and Podcasts 
+# Blogs,Podcasts and YouTube videos  
 - https://nurkiewicz.com/ 
 - https://reflectoring.io/ 
 - https://victorrentea.ro/blog/
 - https://www.morling.dev/
+- https://blog.sebastian-daschner.com/
 - https://blog.tangly.net/blog/ 
 
