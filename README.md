@@ -18,7 +18,8 @@
   - https://architecturenotes.co/things-you-should-know-about-databases/
 
 # Architecture 
- - https://serverlessland.com/event-driven-architecture/visuals 
+ - https://serverlessland.com/event-driven-architecture/visuals
+ - https://github.com/kgoralski/microservice-production-readiness-checklist
 
 # Tooling
 - https://carbon.now.sh/ 
