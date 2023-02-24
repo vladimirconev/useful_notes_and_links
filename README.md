@@ -4,6 +4,9 @@
 - Java 
   - https://javaalmanac.io/ 
   - https://dev.java/
+  - https://roadmap.sh/java 
+- Golang
+  - https://quii.gitbook.io/learn-go-with-tests/
   
 # Infrastructure 
 - Docker 
@@ -12,7 +15,10 @@
 # Databases
 - Relational DBs 
   - https://architecturenotes.co/things-you-should-know-about-databases/
-  
+
+# Architecture 
+ - https://serverlessland.com/event-driven-architecture/visuals 
+
 # Tooling
 - https://carbon.now.sh/ 
 - https://jsoncrack.com/editor 
@@ -23,5 +29,6 @@
 # Blogs and Podcasts 
 - https://nurkiewicz.com/ 
 - https://reflectoring.io/ 
+- https://victorrentea.ro/blog/
 
 
