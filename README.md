@@ -39,7 +39,7 @@
     - https://microservices.io/patterns/microservices.html
     - https://code-held.com/2022/07/28/microservices/
 
-# Tooling
+# Tools
 - https://cmder.app/
 - https://carbon.now.sh/ 
 - https://jsoncrack.com/editor 
@@ -55,4 +55,5 @@
 - https://blog.sebastian-daschner.com/
 - https://blog.tangly.net/blog/ 
 - https://www.infoq.com/software-architects-newsletter/
+- https://medium.com/@hnasr
 
