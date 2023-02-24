@@ -30,8 +30,13 @@
   - https://dbeaver.io/ 
 
 # Architecture 
- - https://serverlessland.com/event-driven-architecture/visuals
- - https://github.com/kgoralski/microservice-production-readiness-checklist
+  - Event-Driven-Architecture 
+    - https://serverlessland.com/event-driven-architecture/visuals
+    - https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/ 
+    - https://bsucaciu.com/?p=819 (Explained: Apache Kafka)
+  - Microservices
+    - https://github.com/kgoralski/microservice-production-readiness-checklist
+    - https://microservices.io/patterns/microservices.html
 
 # Tooling
 - https://cmder.app/
