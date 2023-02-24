@@ -37,6 +37,7 @@
   - Microservices
     - https://github.com/kgoralski/microservice-production-readiness-checklist
     - https://microservices.io/patterns/microservices.html
+    - https://code-held.com/2022/07/28/microservices/
 
 # Tooling
 - https://cmder.app/
