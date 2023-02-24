@@ -40,6 +40,8 @@
     - https://microservices.io/patterns/microservices.html
     - https://code-held.com/2022/07/28/microservices/
 
+- https://learn.microsoft.com/en-us/azure/architecture/guide/
+
 # Tools and Utility 
 - https://cmder.app/ (console Emulator)
 - https://carbon.now.sh/ (sharing code snippets)
