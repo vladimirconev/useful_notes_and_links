@@ -19,7 +19,8 @@
   
 # Infrastructure 
 - Docker 
-  - https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs 
+  - https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs
+  - https://www.testcontainers.org/  
   
 # Databases
 - Relational DBs 
