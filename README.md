@@ -2,6 +2,7 @@
 
 # Programming 
 - Java 
+  - https://www.morling.dev/blog/getting-started-with-java-development-2023/   
   - https://javaalmanac.io/ 
   - https://dev.java/
   - https://roadmap.sh/java 
@@ -30,5 +31,5 @@
 - https://nurkiewicz.com/ 
 - https://reflectoring.io/ 
 - https://victorrentea.ro/blog/
-
+- https://www.morling.dev/ 
 
