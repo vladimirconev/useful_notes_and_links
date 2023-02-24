@@ -8,6 +8,9 @@
   - https://roadmap.sh/java 
 - Golang
   - https://quii.gitbook.io/learn-go-with-tests/
+  - https://github.com/uber-go/guide/blob/master/style.md
+  - https://github.com/golang-standards/project-layout 
+  - https://www.uber.com/blog/data-race-patterns-in-go/ 
   
 # Infrastructure 
 - Docker 
