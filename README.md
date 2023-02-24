@@ -3,6 +3,7 @@
 # Programming 
 - Guidelines and best practices
   - https://phauer.com/2018/code-review-guidelines/
+  - https://google.github.io/eng-practices/review/reviewer/
   - https://google.github.io/styleguide/javaguide.html
     - https://github.com/spotify/fmt-maven-plugin       
 - Java 
