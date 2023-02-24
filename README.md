@@ -42,5 +42,6 @@
 - https://nurkiewicz.com/ 
 - https://reflectoring.io/ 
 - https://victorrentea.ro/blog/
-- https://www.morling.dev/ 
+- https://www.morling.dev/
+- https://blog.tangly.net/blog/ 
 
