@@ -1,6 +1,10 @@
 # Placeholder for useful notes and Links
 
 # Programming 
+- Guidelines and best practices
+  - https://phauer.com/2018/code-review-guidelines/
+  - https://google.github.io/styleguide/javaguide.html
+    - https://github.com/spotify/fmt-maven-plugin       
 - Java 
   - https://www.morling.dev/blog/getting-started-with-java-development-2023/   
   - https://javaalmanac.io/ 
@@ -19,12 +23,15 @@
 # Databases
 - Relational DBs 
   - https://architecturenotes.co/things-you-should-know-about-databases/
+  - https://www.heidisql.com/ 
+  - https://dbeaver.io/ 
 
 # Architecture 
  - https://serverlessland.com/event-driven-architecture/visuals
  - https://github.com/kgoralski/microservice-production-readiness-checklist
 
 # Tooling
+- https://cmder.app/
 - https://carbon.now.sh/ 
 - https://jsoncrack.com/editor 
 - https://ditto-cp.sourceforge.io/
