@@ -21,7 +21,8 @@
 # Infrastructure 
 - Docker 
   - https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs
-  - https://www.testcontainers.org/  
+  - https://www.testcontainers.org/ 
+    - https://github.com/vladimirconev/testcontainers-sandbox shameless self promotion :) 
   
 # Databases
 - Relational DBs 
