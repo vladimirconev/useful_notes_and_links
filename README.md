@@ -2,10 +2,10 @@
 
 # Programming 
 - Guidelines and best practices
-  - https://phauer.com/2018/code-review-guidelines/
-  - https://google.github.io/eng-practices/review/reviewer/
-  - https://www.morling.dev/blog/the-code-review-pyramid/
-  - https://google.github.io/styleguide/javaguide.html
+  -  :page_facing_up: [Effectuve Code Review Guidelines](https://phauer.com/2018/code-review-guidelines/)
+  -  :page_facing_up: [Google Engineering Practices](https://google.github.io/eng-practices/review/reviewer/)
+  -  :page_facing_up: [The Code Review Pyramid by Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
+  - :page_facing_up: [Google Style Java Guide](https://google.github.io/styleguide/javaguide.html)
     - https://github.com/spotify/fmt-maven-plugin       
 - Java 
   - https://www.morling.dev/blog/getting-started-with-java-development-2023/   
@@ -20,9 +20,9 @@
   
 # Infrastructure 
 - Docker 
-  - https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs
+  - :movie_camera: [What is Docker? Docker container concept explained By TechWorld with Nana](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
   - https://www.testcontainers.org/ 
-    - https://github.com/vladimirconev/testcontainers-sandbox shameless self promotion :) 
+    - :bug: [Testcontainers Sandbox](https://github.com/vladimirconev/testcontainers-sandbox) shameless self promotion :smile:
   
 # Databases
 - Relational DBs 
