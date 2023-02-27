@@ -50,7 +50,7 @@
 
 # Tools and Utility 
 - [CMDER console emulator](https://cmder.app/)
-- [Carbon- sharing code snippets](https://carbon.now.sh/)
+- [Carbon - sharing code snippets](https://carbon.now.sh/)
 - [JSON crack](https://jsoncrack.com/editor)
 - [Ditto Clipboard manager](https://ditto-cp.sourceforge.io/)
 - [Screen to GIF](https://www.screentogif.com/)
