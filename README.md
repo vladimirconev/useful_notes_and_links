@@ -31,6 +31,8 @@
 - Relational DBs 
   - 💡 [Things you Should know About DBs](https://architecturenotes.co/things-you-should-know-about-databases/)
   - 💡 [What is DB sharding](https://aws.amazon.com/what-is/database-sharding/)
+- Non-relational DBs
+  - 🍻 [Add search to a legacy App](https://github.com/dadoonet/legacy-search)   
 
 
 # Architecture 
