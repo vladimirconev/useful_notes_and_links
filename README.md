@@ -33,24 +33,25 @@
 
 # Architecture 
   - Event-Driven-Architecture 
-    - https://serverlessland.com/event-driven-architecture/visuals
-    - https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/ 
-    - https://bsucaciu.com/?p=819 (Explained: Apache Kafka)
+    - [EDA Visuals](https://serverlessland.com/event-driven-architecture/visuals)
+    - [How EDA solves Modern Web App Problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/) 
+    - [Explained: Apache Kafka](https://bsucaciu.com/?p=819)
   - Microservices
-    - https://github.com/kgoralski/microservice-production-readiness-checklist
+    - :white_check_mark: [PROD readiness checklist](https://github.com/kgoralski/microservice-production-readiness-checklist)
     - https://microservices.io/patterns/microservices.html
     - https://code-held.com/2022/07/28/microservices/
 
 - https://learn.microsoft.com/en-us/azure/architecture/guide/
-- https://github.com/TNG/ArchUnit-Examples (Testing out your Software Architecture) 
+- [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples)  
 
 # Tools and Utility 
-- https://cmder.app/ (console Emulator)
-- https://carbon.now.sh/ (sharing code snippets)
-- https://jsoncrack.com/editor (JSON visualization)
-- https://ditto-cp.sourceforge.io/ (clipboard manager)
-- https://www.screentogif.com/ (Record screen to .gif)
-- https://excalidraw.com/ 
+- [CMDER console emulator](https://cmder.app/)
+- [Carbon- sharing code snippets](https://carbon.now.sh/)
+- [JSON crack](https://jsoncrack.com/editor)
+- [Ditto Clipboard manager](https://ditto-cp.sourceforge.io/)
+- [Screen to GIF](https://www.screentogif.com/)
+- [Excalidraw](https://excalidraw.com/)
+- [S3 Browser](https://s3browser.com/)
 
 # Blogs,Newsletters and YouTube videos  
 - https://nurkiewicz.com/ 
@@ -61,4 +62,8 @@
 - https://blog.tangly.net/blog/ 
 - https://www.infoq.com/software-architects-newsletter/
 - https://medium.com/@hnasr
+- https://architecturenotes.co/newsletter/
+- https://newsletter.memesmotivations.com/
+- https://leaddev.com/ 
+- https://blog.bytebytego.com/
 
