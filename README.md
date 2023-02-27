@@ -66,4 +66,5 @@
 - https://newsletter.memesmotivations.com/
 - https://leaddev.com/ 
 - https://blog.bytebytego.com/
+- https://techleadjournal.dev/episodes/
 
