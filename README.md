@@ -6,7 +6,7 @@
   -  :page_facing_up: [Google Engineering Practices](https://google.github.io/eng-practices/review/reviewer/)
   -  :page_facing_up: [The Code Review Pyramid by Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
   - :page_facing_up: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
-    - https://github.com/spotify/fmt-maven-plugin       
+    - :tada:[Spotify FMT Maven Plugin](https://github.com/spotify/fmt-maven-plugin)       
 - Java 
   - https://www.morling.dev/blog/getting-started-with-java-development-2023/   
   - https://javaalmanac.io/ 
@@ -21,15 +21,14 @@
 # Infrastructure 
 - Docker 
   - :movie_camera: [What is Docker? Docker container concept explained By TechWorld with Nana](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
-  - https://www.testcontainers.org/ 
+  - [Testcontainers](https://www.testcontainers.org/) 
     - :bug: [Testcontainers Sandbox](https://github.com/vladimirconev/testcontainers-sandbox) shameless self promotion :smile:
   
 # Databases
 - Relational DBs 
-  - https://architecturenotes.co/things-you-should-know-about-databases/
-  - https://aws.amazon.com/what-is/database-sharding/
-  - https://www.heidisql.com/ 
-  - https://dbeaver.io/ 
+  - 💡 [Things you Should know About DBs](https://architecturenotes.co/things-you-should-know-about-databases/)
+  - 💡 [What is DB sharding](https://aws.amazon.com/what-is/database-sharding/)
+
 
 # Architecture 
   - Event-Driven-Architecture 
@@ -38,11 +37,13 @@
     - [Explained: Apache Kafka](https://bsucaciu.com/?p=819)
   - Microservices
     - :white_check_mark: [PROD readiness checklist](https://github.com/kgoralski/microservice-production-readiness-checklist)
-    - https://microservices.io/patterns/microservices.html
-    - https://code-held.com/2022/07/28/microservices/
+    - 💡 [Microservices Pattern](https://microservices.io/patterns/microservices.html)
+    - 🎱[Microservices are Big Ball of Mud](https://code-held.com/2022/07/28/microservices/)
 
 - https://learn.microsoft.com/en-us/azure/architecture/guide/
-- [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples)  
+- [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples) 
+- [Architectural Decision Records ADRs](https://adr.github.io/) 
+  - [Why you should be using ADRs ro document your project](https://www.redhat.com/architect/architecture-decision-records)   
 
 # Tools and Utility 
 - [CMDER console emulator](https://cmder.app/)
@@ -52,9 +53,12 @@
 - [Screen to GIF](https://www.screentogif.com/)
 - [Excalidraw](https://excalidraw.com/)
 - [S3 Browser](https://s3browser.com/)
+- [Heidi SQL: To check up DB schema and Data](https://www.heidisql.com/) 
+- [DBeaver: Eclipse Based UI client for Relational DBs (quite handy if you need to generate ER Diagrams)](https://dbeaver.io/) 
 
 # Blogs,Newsletters and YouTube videos  
 - https://nurkiewicz.com/ 
+- https://benjiweber.co.uk/
 - https://reflectoring.io/ 
 - https://victorrentea.ro/blog/
 - https://www.morling.dev/
