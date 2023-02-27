@@ -43,7 +43,7 @@
     - 💡 [Microservices Pattern](https://microservices.io/patterns/microservices.html)
     - 🎱[Microservices are Big Ball of Mud](https://code-held.com/2022/07/28/microservices/)
 
-- https://learn.microsoft.com/en-us/azure/architecture/guide/
+- [MS App Architecture Guides and Fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)
 - [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples) 
 - [Architectural Decision Records ADRs](https://adr.github.io/) 
   - [Why you should be using ADRs ro document your project](https://www.redhat.com/architect/architecture-decision-records)   
