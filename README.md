@@ -20,13 +20,16 @@
   
 # Infrastructure 
 - Docker 
-  - :movie_camera: [What is Docker? Docker container concept explained By TechWorld with Nana](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
-  - [Docker vs Podman](https://www.linode.com/docs/guides/podman-vs-docker)
-  - [Testcontainers](https://www.testcontainers.org/) 
+   - :movie_camera: [What is Docker? Docker container concept explained By TechWorld with Nana](https://www.youtube.com/watch?v=jPdIRX6q4jA&list=PLy7NrYWoggjzfAHlUusx2wuDwfCrmJYcs)
+   - [Docker vs Podman](https://www.linode.com/docs/guides/podman-vs-docker)
+   - [Testcontainers](https://www.testcontainers.org/) 
     - :bug: [Testcontainers Sandbox](https://github.com/vladimirconev/testcontainers-sandbox) shameless self promotion :smile:
- - [Podman Desktop](https://podman-desktop.io/)
- - [Rancher Desktop](https://www.rancher.com/products/rancher-desktop) 
-  
+   - [Podman Desktop](https://podman-desktop.io/)
+   - [Rancher Desktop](https://www.rancher.com/products/rancher-desktop) 
+- K8s
+  - :bulb: [Awesome K8s Repository](https://github.com/ramitsurana/awesome-kubernetes)
+  - :page_facing_up: [k8s Architecture Explained](https://devopscube.com/kubernetes-architecture-explained/)
+
 # Databases
 - Relational DBs 
   - 💡 [Things you Should know About DBs](https://architecturenotes.co/things-you-should-know-about-databases/)
