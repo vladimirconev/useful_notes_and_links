@@ -84,4 +84,5 @@
 - https://techleadjournal.dev/episodes/
 - https://www.softwareengineeringtidbits.com/
 - https://emitknowledge.substack.com/
+- https://www.developingleadership.co/
 
