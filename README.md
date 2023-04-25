@@ -48,6 +48,7 @@
     - :white_check_mark: [PROD readiness checklist](https://github.com/kgoralski/microservice-production-readiness-checklist)
     - 💡 [Microservices Pattern](https://microservices.io/patterns/microservices.html)
     - 🎱[Microservices are Big Ball of Mud](https://code-held.com/2022/07/28/microservices/)
+    - [Should That Be a Microservice? Keep These Six Factors in Mind](https://tanzu.vmware.com/content/blog/should-that-be-a-microservice-keep-these-six-factors-in-mind)
   - REST
     - :bulb: [RESTful API Guidelines By Zalando](https://opensource.zalando.com/restful-api-guidelines/)
 
