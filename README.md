@@ -54,6 +54,7 @@
     - :bulb: [RESTful API Guidelines By Zalando](https://opensource.zalando.com/restful-api-guidelines/)
 
 - [MS App Architecture Guides and Fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)
+- [System design course](https://github.com/karanpratapsingh/system-design)
 - [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples) 
 - [Architectural Decision Records ADRs](https://adr.github.io/) 
   - [Why you should be using ADRs ro document your project](https://www.redhat.com/architect/architecture-decision-records)   
