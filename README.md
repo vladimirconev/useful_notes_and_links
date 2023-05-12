@@ -9,10 +9,11 @@
   - :page_facing_up: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
     - :tada:[Spotify FMT Maven Plugin](https://github.com/spotify/fmt-maven-plugin)       
 - Java 
-  - https://www.morling.dev/blog/getting-started-with-java-development-2023/   
-  - https://javaalmanac.io/ 
-  - https://dev.java/
-  - https://roadmap.sh/java 
+  - [Getting started with Java Development in 2023 by Morling G.](https://www.morling.dev/blog/getting-started-with-java-development-2023/)   
+  - [The Java Version Almanac](https://javaalmanac.io/) 
+  - [Dev Java](https://dev.java/)
+  - [Step by step guideline on Becoming Java developer](https://roadmap.sh/java) 
+  - [An Incomplete Guide to Modern Java I/O Idioms](https://horstmann.com/unblog/2023-04-09/index.html) 
 - Golang
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://github.com/uber-go/guide/blob/master/style.md
