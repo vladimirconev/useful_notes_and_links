@@ -72,6 +72,7 @@
 - [DBeaver: Eclipse Based UI client for Relational DBs (quite handy if you need to generate ER Diagrams)](https://dbeaver.io/) 
 
 # Blogs,Newsletters and YouTube videos  
+- https://blog.picnic.nl/
 - https://nurkiewicz.com/ 
 - https://benjiweber.co.uk/
 - https://reflectoring.io/ 
