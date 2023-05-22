@@ -7,6 +7,7 @@
   -  :page_facing_up: [The Code Review Pyramid by Gunnar Morling](https://www.morling.dev/blog/the-code-review-pyramid/)
   -  :page_facing_up: [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
   -  :page_facing_up: [10 Commandments of Egoless Programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/)
+  -  🎥 [Technical Documentation: How I can write them better](https://www.youtube.com/watch?v=7-bU6Kvpxys)
   - :page_facing_up: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
     - :tada:[Spotify FMT Maven Plugin](https://github.com/spotify/fmt-maven-plugin)       
 - Java 
