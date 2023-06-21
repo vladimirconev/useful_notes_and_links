@@ -23,7 +23,8 @@
   - https://quii.gitbook.io/learn-go-with-tests/
   - https://github.com/uber-go/guide/blob/master/style.md
   - https://github.com/golang-standards/project-layout 
-  - https://www.uber.com/blog/data-race-patterns-in-go/ 
+  - https://www.uber.com/blog/data-race-patterns-in-go/
+  - https://github.com/MatthewJamesBoyle/golang-interview-prep
   
 # Infrastructure 
 - Docker 
