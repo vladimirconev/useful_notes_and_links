@@ -10,7 +10,8 @@
   -  🎥 [Technical Documentation: How I can write them better](https://www.youtube.com/watch?v=7-bU6Kvpxys)
   - :page_facing_up: [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
     - :tada:[Spotify FMT Maven Plugin](https://github.com/spotify/fmt-maven-plugin)   
-  - 📄[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)    
+  - 📄[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
+  - 📄[Big-O notation: A simple explanation](https://stackthrive.com/big-o-notation/)
 - Java 
   - [Getting started with Java Development in 2023 by Morling G.](https://www.morling.dev/blog/getting-started-with-java-development-2023/)   
   - [The Java Version Almanac](https://javaalmanac.io/) 
