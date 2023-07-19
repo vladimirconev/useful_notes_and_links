@@ -12,6 +12,7 @@
     - :tada:[Spotify FMT Maven Plugin](https://github.com/spotify/fmt-maven-plugin)   
   - 📄[Engineering Manager Resources](https://github.com/ryanburgess/engineer-manager)
   - 📄[Big-O notation: A simple explanation](https://stackthrive.com/big-o-notation/)
+  - 📄[Being a good mentor: Developer's guide](https://vadimkravcenko.com/shorts/good-mentor)
 - Java 
   - [Getting started with Java Development in 2023 by Morling G.](https://www.morling.dev/blog/getting-started-with-java-development-2023/)   
   - [The Java Version Almanac](https://javaalmanac.io/) 
