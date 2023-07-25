@@ -48,6 +48,10 @@
 - Non-relational DBs
   - 🍻 [Add search to a legacy App](https://github.com/dadoonet/legacy-search)   
 
+# Testing 
+- 💡 [Spring Boot Testing tutorial](https://www.sivalabs.in/spring-boot-testing-tutorial/)
+- 🚀[Soft Asserts in Unit and Integration testing](https://eliasnogueira.com/soft-asserts-why-should-you-use-them-for-unit-and-integration-tests/)
+- 👊[Asserting Lists with AssertJ](https://reflectoring.io/assertj-lists/)
 
 # Architecture 
   - Event-Driven-Architecture 
