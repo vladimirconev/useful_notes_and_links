@@ -71,7 +71,7 @@
 - [ArchUnit: Testing out your Software Architecture](https://github.com/TNG/ArchUnit-Examples) 
 - [Architectural Decision Records ADRs](https://adr.github.io/) 
   - [Why you should be using ADRs ro document your project](https://www.redhat.com/architect/architecture-decision-records)   
-
+- [Overengineering in Onion Hexagonal Architecture by Victor R.](https://victorrentea.ro/blog/overengineering-in-onion-hexagonal-architectures/)
 # Tools and Utility 
 - [CMDER console emulator](https://cmder.app/)
 - [Carbon - sharing code snippets](https://carbon.now.sh/)
