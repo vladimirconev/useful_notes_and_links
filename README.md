@@ -103,4 +103,4 @@
 - https://emitknowledge.substack.com/
 - https://www.developingleadership.co/
 - https://softskillspills.com/
-
+- https://github.com/papers-we-love/papers-we-love
