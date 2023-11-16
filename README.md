@@ -104,3 +104,4 @@
 - https://www.developingleadership.co/
 - https://softskillspills.com/
 - https://github.com/papers-we-love/papers-we-love
+- https://www.engineeringleadership.xyz/
