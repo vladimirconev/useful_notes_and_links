@@ -42,6 +42,7 @@
 - K8s
   - :bulb: [Awesome K8s Repository](https://github.com/ramitsurana/awesome-kubernetes)
   - :page_facing_up: [k8s Architecture Explained](https://devopscube.com/kubernetes-architecture-explained/)
+  - 📄[kubernetes for Lazy developers](https://www.marcobehler.com/guides/kubernetes-for-lazy-developers)
 
 # Databases
 - Relational DBs 
