@@ -15,6 +15,7 @@
   - 📄[Being a good mentor: Developer's guide](https://vadimkravcenko.com/shorts/good-mentor)
   - 📄[One-on-One Guidelines by Ben Horowitz](https://a16z.com/one-on-one/)
   - 📄[Technical Skill are overrated. Focus on your Attitude](https://www.scarletink.com/p/technical-skills-are-overrated-focus-on-your-attitude)
+  - 🎱 [Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
 - Java 
   - [Getting started with Java Development in 2023 by Morling G.](https://www.morling.dev/blog/getting-started-with-java-development-2023/)   
   - [The Java Version Almanac](https://javaalmanac.io/) 
