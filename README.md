@@ -105,6 +105,7 @@
 - https://techleadjournal.dev/episodes/
 - https://www.softwareengineeringtidbits.com/
 - https://emitknowledge.substack.com/
+- https://captainscodebook.com/
 - https://www.developingleadership.co/
 - https://softskillspills.com/
 - https://github.com/papers-we-love/papers-we-love
