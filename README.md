@@ -110,3 +110,4 @@
 - https://softskillspills.com/
 - https://github.com/papers-we-love/papers-we-love
 - https://www.engineeringleadership.xyz/
+- https://www.marcobehler.com/
